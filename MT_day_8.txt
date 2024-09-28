@@ -1,0 +1,12 @@
+Day-8
+1: What’s full form of SRS?
+2: Why SRS is important in Manual Testing?
+3: What is Use Cases?
+4: Design 5 different Use Cases?
+5: What are Non-functional Requirement in SRS?
+6: Design an Use Case Diagram? Describe briefly.
+7: The probability that a server-class application hosted on the cloud is up and running for six long months without crashing is 99.99 percent. 
+To analyze this type of scenario, what test will you perform?
+8: Why is it impossible to test a program thoroughly?
+9: If a product is in the production stage and one of its modules gets updated, then is it necessary to perform regression testing?
+10: How will you overcome the challenges faced due to the unavailability of proper documentation for testing?

@@ -1,0 +1,30 @@
+Day - 2 
+1. What is the difference between Assert and Verify.
+2. What are Hard and Soft Asserts in selenium?
+3. What is the Action Class in Selenium?
+4. How can I switch to Multiple Windows in Selenium?
+5. How to handle alerts pop up in Selenium?
+6. Explain Javascript Executor in Selenium.
+7. Can I Create a Selenium Java framework without using TestNG?
+8. Explain breifly idDisplayeD() isSelected() and IsEnabled command?
+9. What is the main disadvantage of implicit wait?
+10. Explain how do you Create a driver instance for Firefox, Chrome, Edge, Safari, and IE?
+11. What is the difference between getWindowhandles() and getwindowhandle()?
+12. From your test script how you can create HTML test report?
+13. How to automate Select Dropdown in Selenium?
+14. What is Selenium Grid?
+15. Explain Some of the Features of selenium 4.0?
+16. What is CDP in Selenium?
+17. What are Relative Locators in Selenium 4.0?
+18. How can work with Network Requests in Selenium 4.0?
+19. Write a Simple Program to iterate over table.
+20. Can I integrate Selenium Tests with CI/CD, name some tools?
+21. What is SauceLabs or BrowserStack, How it helps with Selenium Tets?
+22. I need to press Keys CTRL + SHIFT + S how can I do that in Selenium?
+23. Does Selenium support IFrames, If so please explain.
+24. Write a Small Code Snippet Launch a browser and Navigate to Webpage and Close the browser.
+25. How can I Capture Screenshot in Selenium 4?
+26. Give an example to perform drag and drop action In Selenium WebDriver?
+27. How to handle hidden element in Selenium?
+28. Which method is the overloaded method selenium webdriver?
+29. How to read data from excel in selenium webdriver?

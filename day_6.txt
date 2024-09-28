@@ -1,0 +1,11 @@
+Day - 6
+1: Write a Program to check if an element is part of a collection or not.
+2: Write a program to reverse an ArrayList.
+3: Write a program to convert ArrayList to LinkedList and vice versa.
+4: How to get the highest and lowest values of a List?
+5: How to make a collection read-only?
+6: What is the difference between Iterator & Enumerator?
+7: Compare different Collection classes with respect to their properties.
+8: What are the differences between List & Set?
+9: What are the differences between Array and ArrayList?
+10: What are the differences between Arraylist & LinkedlList?

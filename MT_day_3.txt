@@ -1,0 +1,16 @@
+DAY - 3: 
+1: What are the different types of Testing?
+2: Explain each in not more than 5 sentences:
+3: Unit Testing
+4: Integration Testing
+5: Alpha Testing
+6: System Testing
+7: Usability Testing
+8: Cross Browser Testing
+9: Explain waterfall Model
+10:Explain spiral Model
+11:Explain prototype Model
+12:Explain increment Model
+13:Explain iterative Model
+14:Explain agile Model
+14:Explain v Model

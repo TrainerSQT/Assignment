@@ -1,0 +1,16 @@
+Day - 10
+1. What is Typecasting explain with small code snippet?
+2. Write a program to reverse a string  without using string.reverse() method
+3. Write a program to calculate the occurrences of each character in the string
+4. Write a program to check the magic number
+5. Write a program to check if two strings are an anagram
+6. Write a program to create a deadlock in java
+7. Write a program to sort ArrayList using Comparable and Comparator
+8. I have arrayList like [Test1, Test2, Test3, Test4, Test5] Write a Program to replace the "Test2" with string "ReplacedTest"
+9. Write a Java program to insert the specified element at the end of a linked list
+10. Write a program to perform Pairwise swap elements of a given linked list
+11. Check if two arrays have same number of items and values
+12. Write a Java Program to find the largest and smallest word in a string
+13. Java Program to Check if a Given Number is Perfect Square
+14. Write a Program to cover all major concepts of OOPs
+15. Write a program to find the length of the string without using string.length();

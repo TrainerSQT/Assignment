@@ -1,0 +1,13 @@
+(Day 2)
+Topic : Introduction to Java
+
+1.Program to find area and circumference of circle.
+2.Program to calculate sum of 5 subjects & find percentage.
+3.Program to find the simple interest.
+4.Write aprogram which accept sdays (eg.670days) asinteger and display to talnumber of years, months and days in it.
+5.Program to convert temperature from Fahrenheit to Celsius as C= 5*(f-32)/912.Program to swap two no’s without using third variable.
+6.Find the result of following (accept values for variables used in right side ofexpression).
+a.y=x 2 + 3x-7 (print value of Z)
+b.y=x++ + ++x (print value of x and y)
+c.z= x++ - --y - --x + x++ (print value of x ,y and z)
+d.z = x && y || !(x||y) (print value of Z)

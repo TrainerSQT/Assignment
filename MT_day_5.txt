@@ -1,0 +1,11 @@
+Day - 5
+1: How Acceptance testing is importance? Who does acceptance Testing? What we do in this testing?
+2: List five key differences Smoke Testing Vs Sanity Testing?
+3: Define Manual Vs Automated testing?
+4: List as many differences as you can between white box testing and black box testing?
+5: What is a Test Case?
+6: When should you stop the testing process?
+7: What do verification and validation mean in software testing?
+8: What is a test plan and what does it include?
+9: What is meant by test coverage?
+10: Is it possible to achieve 100% testing coverage? How would you ensure it?

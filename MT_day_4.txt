@@ -1,0 +1,11 @@
+Day - 4
+1: Multi Platform Testing
+2: Performance Testing
+3: Security Testing
+4: User Acceptance Testing (UAT)
+5: Beta Testing
+6: What is Functional Testing? List various testing which come under this category?
+7: What is Non Functional Testing? List various testing which come under this category?
+8:What is Test Plan and contents available in a Test Plan?
+9:What is Test Environment?
+10:What is Test Data?

@@ -1,0 +1,11 @@
+Day - 8
+1. How to make class read-only explain briefly?
+2. What is Object Class explain?
+3. What is the difference between Mutable and Immutable Object? Explain String and StringBuilder in the same context
+4. What are the different types of exceptions in java?
+5. Can we have a Single Catch Block and Multiple Try block?
+6. Can we have try block without catch block? How do you handle multiple exception with single try block?
+7. Tell me the difference between == and .equals
+8. Tell me some helpful string methods in Java
+9. Why should avoid static methods in Java? Explain
+10. How can I use the thread concept in Java, Explain two types

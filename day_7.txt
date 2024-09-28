@@ -1,0 +1,12 @@
+Day - 7
+1. What is the difference between JDK, JRE, and JVM?
+2. What are the different types of constructors in Java? And How to overload Constructor?
+3. What is the static keyword? How it can be used?
+4. What is this final keyword? how I can be used?
+5. What is the difference between method overloading and method overriding?
+6. Could you explain IS-A and HAS-A relationship?
+7. Explain this and super keyword
+8. How to check instance of Specified type? Explain with example
+9. What is a package in Java? What are different types of packages? Can we create a custom package?
+10. What is run time polymorphism in Java?
+11. What is the difference between static and dynamic binding in java?

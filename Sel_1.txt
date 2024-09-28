@@ -1,0 +1,27 @@
+Day -1 
+
+1. What is Automation Testing?
+2. What is Selenium Webdriver?
+3. I have a use case that I need to execute some of the tests only once, I don’t have to execute these tests in the future, Should I use selenium Webdriver for this?
+4. Explain Selenium Webdriver Architecture with Selenium 4.
+5. What is the advantage of Selenium.
+6. What are the different languages supported by Selenium?
+7. Can we use Selenium for Product Development? If not, What is selenium used for?
+8. What is Selenium IDE? when should we use it?
+9. How to install Selenium IDE?
+10. What is Selenese?
+11. What are the different types of Locator Strategy supported by Selenium?
+12. Explain List of Supported Drivers by Selenium?
+13. How to find Single and Multiple Elements in Selenium?
+14. What is By in selenium?
+15. Explain at least 5 different types of exceptions in Selenium.
+16. Explain Explicit Implicit and Fluent waits in Selenium?
+17. What is the difference between driver.close and driver.quit?
+18. Explain Selenium Browser Naivigation commands.
+19. How to type text in an input box using Selenium?
+20. How to click an Element in Selenium?
+21. How to Get Text of Web Element?
+22. How to handle window dialog such as File Open Dialog in Windows using Selenium?
+23. What is Page Object Model?
+24. Is it possible to use the Assertions only by using Selenium?
+25. What are the different types of frameworks?

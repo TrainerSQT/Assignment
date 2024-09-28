@@ -1,0 +1,11 @@
+Day - 2 
+1. What are the Priorities in TestNG?
+2. How to Define Grouping in TestNG?
+3. How can we exclude a group in TestNG?
+4. What are assertions in TestNG?
+5. List down common Assertions used in TestNG.
+6. Can you explain about handling dependent test Execution in TestNG?
+7. How to handle Parallel execution in TestNG?
+8. How to Define TimeOut in TestNG?
+9. What is TestNG Listners?
+10. Tell me about Data Providers in TestNG.

@@ -1,0 +1,13 @@
+DAY-1: 
+1: What qualities testers should have?
+2: As a tester, what qualities do you have? Provide with examples to justify your qualities?
+3: Describe what you would like to do in a new job as a Software Tester?
+4: Why A Tester needs to interact with various IT departments?
+5: Why Testing Is Important?
+6: what is software?
+7: types of software.
+8: what is testing ?
+9: what is s/w testing?
+10: types of testing ?
+11: what is functional testing?
+12: what is black box testing ?

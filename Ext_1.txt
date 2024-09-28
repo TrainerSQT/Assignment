@@ -1,0 +1,18 @@
+Day - 1 
+
+1: What are the Extent Reports and How to handle Selenium WebDriver Exceptions ?
+2:There are four browser windows opened and you don’t have any idea where the required element is present. What will be your approach to find that element?
+3: How do you handle an alert pop-up in Selenium?
+4: How do you retrieve the text displayed on an Alert?
+5: How do you type text into the text box on an Alert?
+6: Is Alert in Selenium an Interface or Class?
+7: How do you handle frames in Selenium?
+8: Give an example for method overloading concept that you have used in Selenium?
+9: How do you select a value from a drop-down field and what are the different methods available?
+10: When your XPath is matching more than one element, how do you handle it to locate the required element?
+11: Using Extent Reports in Selenium Webdriver.
+12: What do you mean by 
+1: PASS
+2: FAIL
+3: SKIP
+4: INFO

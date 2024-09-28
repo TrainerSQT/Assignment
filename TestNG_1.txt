@@ -1,0 +1,11 @@
+Day - 1 
+1. What is TestNG?
+2. Mention some of the Advantages of TestNG?
+3. Explain the difference between Test and Test Suite in TestNG.
+4. Why should we use TestNG in Selenium Framework?
+5. How to add TestNG maven dependency in POM.xml?
+6. What is TestNG.XML File?
+7. What is annotation in TestNG?
+8. List some of the most common annotations used in TestNG.
+9. What are PreCondition, Test, and PostCondition Annotations in TestNG?
+10. What is parameterization in TestNG?

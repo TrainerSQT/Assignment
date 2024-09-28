@@ -1,0 +1,12 @@
+(Day 3)
+1: Print all prime numbers between two given numbers;
+2: Program to show sum and average of 10 element array. Accept array elements fromuser.
+3: Sort a ten element array in descending order.
+4: Create a array of 17 elements in 5 rows. And calculate sum of all elements.
+5: Program to find multiplication of two 3X3 matrices.
+6: Program to print transpose of a matrix.
+7: Object Oriented Programming , Classes, Objects ,Methods, Constructor 
+8: Create a class to calculate Area of circle with one data member to store the radius andanother to store area value.Create method members
+1. init - to input radius from user
+2. calc - to calculate area
+3. display- to display area

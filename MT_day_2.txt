@@ -1,0 +1,14 @@
+DAY- 2: 
+1: Why is Testing Important? Justify with few good examples?
+2: What happen if you not test software properly? Provide few examples and problems occurred due to not testing enough?
+3: How rigorous testing helps IT companies?
+4: Why Testing is important in Software Industry?
+5: What are the advantages of starting early testing in SDLC?
+6: Can testing be 100%? if not then why?
+7: Provide various justifications for separating software testing from software development job? Why not software developers should conduct complete testing rather than companies pay separately to software testers?
+8: Different Types Of Testing
+9: what is SDLC ? 
+10: Phases of SDLC.
+11: what is error , defect , bug , failure.
+12: types of errors.
+13: what is STLC.

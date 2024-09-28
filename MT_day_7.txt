@@ -1,0 +1,11 @@
+Day-7 
+1: what is Test plan ? What are the Contents of a Test Plan? Describe each.
+2: Write an example of a Test Plan?
+3: Develop Test Plan for Flight Reservation System Application? Make sure you cover all the sections and it should looks like professional document?
+4: Traceability matrices
+5: What is Traceability matrices? How to use it?
+6: Traceability matrix is useful? How? Describe with Example with any application?
+7: Develop Traceability Matrix for Flight Reservation Application?
+8: Can you explain the importance of test cases in the manual testing process?
+9: How do you prioritize test cases when you have limited time for testing?
+10: Can you explain the concept of equivalence partitioning and give an example?

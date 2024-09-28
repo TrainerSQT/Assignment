@@ -1,0 +1,11 @@
+Day-6 
+1: List out level of Test Cases? What are fields of a Test case Template?
+2: Write test cases for Gmail Login? Give at least 5 examples?
+3: Design 3 positive Test cases and 3 negative test cases regarding: http://newtours.demoaut.com
+4: What problems you face in writing test cases?
+5: What is called a good Test Case? What is a bad Test Case?
+6: What are guidelines for writing Test Cases?
+7: What is Test Data? Why is it important?
+8: Develop Test cases for Flight Reservation Application?
+9: What is the difference between a test driver and a test stub?
+10: What is the purpose of the end-to-end testing?

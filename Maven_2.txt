@@ -1,0 +1,13 @@
+day-2 
+1: How do you know the version of Maven being used?
+2: What is Clean, Default, and Site in Maven?
+3: What is the command to install JAR files in the Local Repository? 
+4: What are the steps to install Maven on Ubuntu?
+5: What is a Maven Repository?
+6: What are the different types of Maven Repositories?
+7: How does Maven Architecture work?
+8: What is Maven Build Lifecycle?
+9: What are the different phases in the Maven Build Lifecycle?
+10: Which command is used to build a Maven site? 
+11: Why are Maven Plugins used?
+12: What is the difference between Convention and Configuration in Maven?

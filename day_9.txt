@@ -1,0 +1,14 @@
+Day - 9
+1. How can we achieve Pass by value and pass by reference in Java?
+2. Explain Different types of interfaces in the Collection framework
+3. What is the difference between Array List and LinkedList? Which is better explain?
+4. What is the difference between List and Set?
+5. What is the difference between HashSet and HashMap?
+6. Explain Collection and Collections in Java?
+7. Explain the difference between Comparable and Comparator.
+8. Are Array and Array List are the same? If Not, How do we convert them to each other?
+9. What is Generic Class? Could you explain with a small snippet?
+10. How Sub Class is different from Inner Class?
+11. What is a singleton class? Explain with a small code snippet
+12. Explain Thread life cycle briefly? What are some commonly used methods?
+13. What is garbage collection? How to force Garbage Collection?

@@ -1,0 +1,11 @@
+Day - 3 
+1. How Factory Different from DataProvides?
+2. Name the Interface which can be used to retry failed tests?
+3. What is the difference between TestNG and Junit?
+4. What is expectedExceptions Attribute in TestNG?
+5. How to disable a test in TestNG? Or How to skip tests in TestNG?
+6. What is Inclusion & Exclusion Groups in TestNG?
+7. What is the invocation count in TestNG?
+8: What are @Factory and @DataProvider annotation?
+9: What does the test timeout mean in TestNG?
+10: What is the use of @Test(threadPoolSize=x)?
